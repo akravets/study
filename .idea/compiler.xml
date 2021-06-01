@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hackerRank" />
+        <module name="generics" />
+        <module name="collections" />
+        <module name="streams" />
+        <module name="tree" />
+        <module name="leetcode" />
+        <module name="concurrency" />
+        <module name="misc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="postfix" target="8" />
+      <module name="stack" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
